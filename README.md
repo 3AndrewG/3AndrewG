@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Andrew George
-- 👀 I’m interested in ...
+- 👀 I’m interested in meteorology
 - 🌱 I’m currently learning data science
